@@ -2,7 +2,7 @@
 ## 🧐 About this repository
 Go Publicity Harvester is a GO API which allow to push some publicity event to a DB and
 then collect these data using some filters.
-It is using Clean architecture. 
+It is using `Clean architecture`. 
 
 ### Developed with
 * [Go](https://golang.org/)
